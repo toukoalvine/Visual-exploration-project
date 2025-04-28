@@ -1,3 +1,4 @@
 # Visual-exploration-project
-Visual exploration of a dataset
-I’m currently working on a project as part of the “Explorative Data Analysis and Visualization” modul in my iu-training program.
+As part of the course explorative Data Analysis and visualization, I will be practicing my ability to investigate a Dataset, summarize their main Characteristics and use visualizations methods to uncover their patterns, relationships and insights. For this purpose, I choose the dataset “Global Renewable Energy Production (2000-2023)” from Kaggle, because it best fit to my background and is easy for me to understand. 
+The dataset summarizes the annual data on renewable energy between 2000 and 2023 and reveals the growth and distribution of renewable energy worldwide. The contributions of solar, wind, hydro and other renewable energy sources are provided in the columns.
+For this assignment, I will first examine the dataset to ensure it is clean and ready for analysis. Then, I will carry out the analysis and create visualizations to identify trends over time and explore the relationships between the different renewable energy sources included in the dataset.
